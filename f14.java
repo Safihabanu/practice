@@ -1,6 +1,6 @@
 
 int c=10;
-=======
+
 class f{
 
 	//stash that to be hidden
